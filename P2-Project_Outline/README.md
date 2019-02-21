@@ -7,11 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I want to create a "What can I make" web app that the user gives specific ingredients they have in their home that they would like to make a meal out of. Limit 5 ( I am thinking for now). 
+The app will search the Internet for recipes with those main ingredients (or only those ingredients was my original idea). It will return recipes found with those ingredients. The user can then opt to save them in their "recipe box" if they choose but must login to do so. 
+
 ### Features
 Include Features here
+1. login
+2. Web search using APIs
+3. Render Link or recipe
+4. Save recipe on the site
+
 ### Technologies
-Include Technologies here
+1. JavaScript, jQuery
+2. Vue.js
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn Vue and review both JavaScript & jQuery
+
