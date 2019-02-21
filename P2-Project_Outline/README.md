@@ -11,7 +11,6 @@ I want to create a "What can I make" web app that the user gives specific ingred
 The app will search the Internet for recipes with those main ingredients (or only those ingredients was my original idea). It will return recipes found with those ingredients. The user can then opt to save them in their "recipe box" if they choose but must login to do so. 
 
 ### Features
-Include Features here
 1. login
 2. Web search using APIs
 3. Render Link or recipe
@@ -24,3 +23,5 @@ Include Features here
 ### What I'll Have to Learn
 I will need to learn Vue and review both JavaScript & jQuery
 
+### Project Tracker
+Pivotal, Trello, or Github Projects, we only talked about one so I need to look at the other two now! I like Trello. 
