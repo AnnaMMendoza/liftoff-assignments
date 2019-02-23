@@ -24,4 +24,6 @@ The app will search the Internet for recipes with those main ingredients (or onl
 I will need to learn Vue and review both JavaScript & jQuery
 
 ### Project Tracker
-Pivotal, Trello, or Github Projects, we only talked about one so I need to look at the other two now! I like Trello. 
+Pivotal, Trello, or Github Projects, we only talked about one so I need to look at the other two now! 
+I have an account on Pivotal Tracker and one with Trello. I prefer Trello's interface. Kinda confused wtih Pivotal's
+Icebox stories and Iterations where you also add stories. 
